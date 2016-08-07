@@ -1,0 +1,1 @@
+{"version":3,"sources":["drawer.scss"],"names":[],"mappings":"AAEA,KACE,gBACA,QAAU,CACX","file":"drawer.css","sourcesContent":["@import 'variables';\r\n\r\nbody {\r\n  background: $primary-color;\r\n  margin: 0;\r\n}\r\n"],"sourceRoot":"/source/"}
